@@ -1,0 +1,268 @@
+/*addtoproform*/
+.enter{
+    margin-top: 5rem;
+}
+.bigger{
+    display: flex;
+}
+.name h1{
+    font-size: 200%;
+    margin-top: 7px;
+}
+.box{
+    margin-left: 2rem;
+
+}
+.box input{
+    height: 100%;
+    width: 100%;
+    outline: none;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    border-bottom-width: 2px;
+    font-size: 180%;
+    transition: all 0.3s ease;
+}
+.boxIMG{
+    margin-left: 5rem;
+    
+}
+
+.boxIMGS input{
+    height: 100%;
+    width: 100%;
+    
+    transition: all 0.3s ease;
+  
+}
+.boxIMGS{
+    margin-top: 1rem;
+  
+    
+}
+.boxI{
+    margin-left: 3rem;
+
+}
+.boxI input{
+    height: 100%;
+    width: 90%;
+    outline: none;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    border-bottom-width: 2px;
+    font-size: 180%;
+    transition: all 0.3s ease;
+}
+.boxP{
+    margin-left: 1.9rem;
+
+}
+.boxP input{
+    height: 100%;
+    width: 94%;
+    outline: none;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    border-bottom-width: 2px;
+    font-size: 180%;
+    transition: all 0.3s ease;
+}
+.boxS{
+    margin-left: 2rem;
+
+}
+.boxS input{
+    height: 100%;
+    width: 100%;
+    outline: none;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    border-bottom-width: 2px;
+    font-size: 180%;
+    transition: all 0.3s ease;
+}
+.boxD{
+    margin-left: 3.3rem;
+
+}
+.boxD input{
+    height: 100%;
+    width: 90%;
+    outline: none;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    border-bottom-width: 2px;
+    font-size: 180%;
+    transition: all 0.3s ease;
+}
+.boxDS{
+    margin-left: 2rem;
+
+}
+.boxDS input{
+    height: 100%;
+    width: 100%;
+    outline: none;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    border-bottom-width: 2px;
+    font-size: 180%;
+    transition: all 0.3s ease;
+}
+.boxG{
+    margin-left: 2.5rem;
+
+}
+.boxG input{
+    height: 100%;
+    width: 100%;
+    outline: none;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    border-bottom-width: 2px;
+    font-size: 180%;
+    transition: all 0.3s ease;
+}
+.boxF{
+    margin-left: 1.6rem;
+
+}
+.boxF input{
+    height: 100%;
+    width:95%;
+    outline: none;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    border-bottom-width: 2px;
+    font-size: 180%;
+    transition: all 0.3s ease;
+}
+.boxFS{
+    margin-left: 1.8rem;
+
+}
+.boxFS input{
+    height: 100%;
+    width: 100%;
+    outline: none;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    border-bottom-width: 2px;
+    font-size: 180%;
+    transition: all 0.3s ease;
+}
+.boxID{
+    margin-left: 3.7rem;
+
+}
+.boxID input{
+    height: 100%;
+    width: 89%;
+    outline: none;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    border-bottom-width: 2px;
+    font-size: 180%;
+    transition: all 0.3s ease;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 15rem;
+    margin-right: 15rem;
+    margin-bottom: 3rem;
+}
+.flexc{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 15rem;
+    margin-right: 15rem;
+   
+}
+.role{
+    display: flex;
+    justify-content: center;
+    margin-top: 5rem;
+    margin-left: 2rem;
+}
+.roles{
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    margin-left: 8rem;
+}
+.rolename{
+    margin-top: -.5rem;
+}
+.Bigr1{
+    display: flex;
+}
+.Bigr2{
+    display: flex;
+    margin-left: 5rem;
+}
+.input input{
+    width: 200%;
+    height: 200%;
+    margin-top: -1.6rem;
+}
+.Bgs{
+    display: flex;
+    margin-left: 5rem;
+}
+.label h1{
+    font-size: 200%;
+}
+.label{
+    margin-left: 3rem;
+}
+.butt{
+    text-align: center;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+.butt button{
+    background-color: transparent;
+    font-size: 200%;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    width: 10%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.butt button:hover{
+background-color: #064635;
+transition: .5s;
+}
